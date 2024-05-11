@@ -6,16 +6,22 @@ The "World University Rankings Analysis" project evaluates and analyzes universi
 ### 1. Which universities are ranked in the top 10 globally?
 ![Q A](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/f0ba53ec-a838-4eb5-8771-6b5b6da58ce7)
 
+![Q A2](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/f658d4e0-d9ee-4bae-866f-6c6fa8d619d2)
+
+![Q A3](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/044f9314-c076-4e5f-b92c-1577d4ffa142)
+
+
 ### 2. Which universities are ranked in the top 10 for employment outcomes?
 ![Q B](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/7f9f9271-9a01-4da4-983e-36ea65aec1fc)
 
 ### 3. What positions do universities in Saudi Arabia hold within the global rankings?
-![Q C](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/4b4ee22a-0a98-443e-8fd0-81bf7ddcf13f)
+![Q C](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/6884175c-611d-4f07-8b56-b77b0644f45e)
+
+![Q C2](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/33860d8f-1a66-443c-bb68-155017862bbf)
 
 ### 4 Considering various factors such as employment rankings, research rankings, and others, which has the most significant impact on a university's overall ranking?
-![Q C](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/8bff5f53-1ef0-41ea-a888-f495dcfbf044)
+![Q D](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/68184909-0197-4351-a4bd-c230fe061428)
 
-![Q C2](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/263b25b8-ada3-48dd-b231-1b6a368afe11)
 
 ### 5. Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that appears to have a high concentration of top-ranked universities?
 ![Q E](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/dad9a0bc-81a2-4d7a-aa40-19b938abc9a3)

@@ -10,7 +10,7 @@
 - Presentation of the result in 3 slides
 - README.md file.
 
-  ============================================
+============================================
 
 # Questions
 
@@ -77,4 +77,10 @@
   - data date to 2023 (after researching and matching the results i found that the dataset belong to [Impact Rankings 2023](https://www.timeshighereducation.com/impactrankings))
 
 - Shanghai Ranking:
-  - Duplicates
+  - Identical Scores: In the global ranking, there may be duplicates with identical scores.
+  - Range Ranks: Universities are ranked within ranges rather than precise positions.
+  - Alphabetical Order: If universities share the same rank, they are ordered alphabetically.
+  - Outliers: Top university scores are considered outliers as many scores are concentrated below the top 25.
+  - uplicates: Duplicates may occur within national rankings as well.
+  - The provided data reflects the year 2022 and has undergone extensive research and matching to ensure accuracy. However, users should exercise caution in drawing conclusions due to potential inaccuracies stemming from duplicate entries and lack of timeliness.      
+  [Shanghairanking 2022](https://www.shanghairanking.com/rankings/arwu/2022)

@@ -4,7 +4,8 @@ The "World University Rankings Analysis" project evaluates and analyzes universi
 
 ## Questions
 ### 1. Which universities are ranked in the top 10 globally?
-![alt text](img/Q A.png)
+![Q A](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/f0ba53ec-a838-4eb5-8771-6b5b6da58ce7)
+
 
 ### 2. Which universities are ranked in the top 10 for employment outcomes?
 

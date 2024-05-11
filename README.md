@@ -29,8 +29,49 @@ The "World University Rankings Analysis" project evaluates and analyzes universi
 
 
 ## About the Dataset
-- **Source**: Kaggle [Kaggle's World University Rankings Report page](https://www.kaggle.com/datasets/ourfuture/world-university-rankings).
-- **License**: Public Domain
+- **The Center World University Ranking dataset**: provides comprehensive rankings of universities worldwide based on various criteria According to the "THE" website.
+
+- the column is:
+
+World Rank: The ranking of the university on a global scale.
+University Name: The name of the university.
+Location: The location of the university (country).
+National Rank: The ranking of the university within its country.
+Educational Rank: The ranking of the university based on educational quality and resources.
+Employability Rank: The ranking of the university based on graduate employability.
+Faculty Rank: The ranking of the university based on faculty quality and expertise.
+Research Rank: The ranking of the university based on research output and impact.
+
+- **The shanghai Ranking University Ranking dataset** :  provides comprehensive rankings of universities worldwide based on various criteria According to the "shanghai Ranking" website.
+  
+- the column is:
+
+Ranking: This column represents the ranking of the university either on a national/regional level or on a global scale. 
+
+University Name: This column contains the name of the university. 
+
+National/Regional Rank: This column provides the ranking of the university within its respective country or region.
+
+Total Score: This column contains the total score assigned to each university based on the criteria used for ranking. 
+
+Logo: This column  contain links or references to the logos of the universities. Including logos can enhance visual appeal and help users quickly identify and associate each university with its respective brand.
+
+
+University Detail: This column may contain additional details or information about each university, such as its location, founding year, campus size, student demographics, notable programs, accreditations, and other relevant information.
+
+- **The TIME Ranking University Ranking dataset**: provides comprehensive rankings of universities worldwide based on various criteria According to the "TIME higher" website.
+
+- the column is:
+
+Rank: This column represents the ranking of the university. It indicates the position of the university relative to other institutions in the dataset based on specific criteria such as academic excellence, research output, and overall reputation.
+
+University Name: This column contains the name of the university. Each row corresponds to a specific university, and this column provides a unique identifier for each institution.
+
+ranking-institution-title href: This column may contain links or references to the website or page of the ranking institution responsible for compiling the university rankings. Including these links allows users to access more information about the ranking methodology, criteria, and other details provided by the institution.
+
+Location: This column provides information about the location of the university.
+Total Score: This column contains the total score assigned to each university based on the criteria used for ranking.
+  
 
 ## Data Profiling and Quality Checks
 ### Reliability

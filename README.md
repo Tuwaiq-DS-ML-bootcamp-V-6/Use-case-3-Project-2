@@ -7,7 +7,7 @@ The "World University Rankings Analysis" project evaluates and analyzes universi
 ![alt text](img/Q A.png)
 
 ### 2. Which universities are ranked in the top 10 for employment outcomes?
-![alt text](img/Q B.png)
+
 
 ### 3. What positions do universities in Saudi Arabia hold within the global rankings?
 

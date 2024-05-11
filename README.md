@@ -19,6 +19,9 @@ The "World University Rankings Analysis" project evaluates and analyzes universi
 
 ![Q C2](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/33860d8f-1a66-443c-bb68-155017862bbf)
 
+![C3](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/790078d6-6a36-4ab2-bf32-307ab75a7f28)
+
+
 ### 4 Considering various factors such as employment rankings, research rankings, and others, which has the most significant impact on a university's overall ranking?
 ![Q D](https://github.com/RubaAlhajri/Use-case-3-Project-2/assets/109194138/68184909-0197-4351-a4bd-c230fe061428)
 

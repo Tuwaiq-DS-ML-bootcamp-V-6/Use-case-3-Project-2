@@ -16,7 +16,7 @@ The "World University Rankings Analysis" project evaluates and analyzes universi
 ### 5. Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that appears to have a high concentration of top-ranked universities?
 
 ## About the Dataset
-- **Source**: Kaggle [Kaggle's World University Rankings Report page] (https://www.kaggle.com/datasets/ourfuture/world-university-rankings).
+- **Source**: Kaggle [Kaggle's World University Rankings Report page](https://www.kaggle.com/datasets/ourfuture/world-university-rankings).
 - **License**: Public Domain
 
 ## Data Profiling and Quality Checks

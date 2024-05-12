@@ -1,16 +1,22 @@
-World-University-Rankings
-Of all the universities in the world, which are the best?
+# World-University-Rankings
 
-Ranking universities is a difficult, political, and controversial practice. There are hundreds of different national and international university ranking systems, many of which disagree with each other. This dataset contains three global university rankings from very different places.
+Welcome to the World University Rankings!
 
-University Ranking Data The Times Higher Education World University Ranking is widely regarded as one of the most influential and widely observed university measures. Founded in the United Kingdom in 2010, it has been criticized for its commercialization and for undermining non-English-instructing institutions.
+Ranking universities is a challenging, political, and often contentious endeavor. With numerous national and international ranking systems, there's plenty of room for debate and disagreement. This dataset presents three prominent global university rankings from diverse sources.
 
-The Academic Ranking of World Universities, also known as the Shanghai Ranking, is an equally influential ranking. It was founded in China in 2003 and has been criticized for focusing on raw research power and for undermining humanities and quality of instruction.
+**University Ranking Data:**
+- **The Times Higher Education World University Ranking:** Widely recognized as one of the most influential measures, this ranking originated in the United Kingdom in 2010. However, it has faced criticism for commercialization and bias toward English-instructing institutions.
+  
+- **The Academic Ranking of World Universities (Shanghai Ranking):** Equally influential, this ranking was established in China in 2003. Criticisms include its emphasis on raw research power and perceived neglect of humanities and teaching quality.
+  
+- **The Center for World University Rankings:** A lesser-known ranking from Saudi Arabia, founded in 2012.
 
-The Center for World University Rankings, is a less well know listing that comes from Saudi Arabia, it was founded in 2012.
+How do these rankings compare? Are the criticisms valid? And where does your alma mater stand in the global landscape?
 
-How do these rankings compare to each other? Are the various criticisms levied against these rankings fair or not? How does your alma mater fare against the world? Supplementary Data To further extend your analyses, we've also included two sets of supplementary data.
+**Supplementary Data:**
+To enrich your analysis, we've included two supplementary datasets:
+- **Educational Attainment Data:** Sourced from The World Data Bank, this dataset incorporates information from the UNESCO Institute for Statistics and the Barro-Lee Dataset. Explore how national educational attainment correlates with the quality of universities.
+  
+- **Expenditure on Education:** Derived from the National Center for Education Statistics, this dataset measures public and private direct expenditure on education as a percentage of gross domestic product. Does higher spending on education translate to better international university rankings?
 
-The first of these is a set of data on educational attainment around the world. It comes from The World Data Bank and comprises information from the UNESCO Institute for Statistics and the Barro-Lee Dataset. How does national educational attainment relate to the quality of each nation's universities?
-
-The second supplementary dataset contains information about public and private direct expenditure on education across nations. This data comes from the National Center for Education Statistics. It represents expenditure as a percentage of gross domestic product. Does spending more on education lead to better international university rankings?
+Dive in and uncover the insights within the world of university rankings and educational investments!

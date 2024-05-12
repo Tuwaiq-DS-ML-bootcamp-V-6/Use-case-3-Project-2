@@ -47,7 +47,38 @@
 
 - Center World University Ranking:
 
+  # ISSUES: 
   - fake nulls (for what it looks like unis without rank)
+  - Wrong data types 
+  - To much outliers because the neccesary dublicats values and the empty nulls
+  - To much natural outliers
+
+
+- ANSWER 1:
+
+![alt text](images/ANSWER_1_TOP10.png)
+
+The top 10 universities globally are highly respected for their academic excellence. Harvard University, in particular, holds the top spot and is renowned for its exceptional education and research. These universities have made significant contributions to academia and play a crucial role in shaping the future of education.
+
+
+- ANSWER 2:
+
+![alt text](images/ANSWER_2_TOPoutcomes.png)
+
+The top 10 universities for employment outcomes are known for preparing graduates for successful careers. Harvard University ranks at the top, with graduates highly sought after by employers worldwide. These universities focus on equipping students with the skills needed to excel in their fields. With strong industry connections and practical experience, graduates from these universities have a competitive advantage in the job market. Students looking for promising employment opportunities often choose these universities for their commitment to career success.
+
+- ANSWER 3:
+
+![alt text](images/ANSWER_3_TOPGLOBALksA.png)
+
+Saudi Arabia's top 15 universities have achieved notable positions in global rankings. King Abdulaziz University leads the pack at 244th place, followed by King Abdullah University of Science and Technology at 278th place, and King Saud University at 351st place. These universities are recognized for their commitment to excellence in education and research, making significant contributions to Saudi Arabia's academic landscape.
+
+- ANSWER 4:
+
+![alt text](images/ANSWER_4_MOSTimpact.png)
+
+Research Rank is the most factor that impact the global ranks
+
 
 - Times Higher Education World University Ranking:
 

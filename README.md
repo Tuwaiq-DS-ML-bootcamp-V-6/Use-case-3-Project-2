@@ -1,4 +1,4 @@
-# World-University-Rankings
+# World University Rankings
 
 Welcome to the World University Rankings!
 

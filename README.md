@@ -97,3 +97,11 @@ Are we using all datasets? **yes**
 - uplicates: Duplicates may occur within national rankings as well.
 - The provided data reflects the year 2022 and has undergone extensive research and matching to ensure accuracy. However, users should exercise caution in drawing conclusions due to potential inaccuracies stemming from duplicate entries and lack of timeliness.  
   [Shanghairanking 2022](https://www.shanghairanking.com/rankings/arwu/2022)
+
+## Members
+Riyadh Alghamdi
+Khalid Aseri
+Mohammed Alaklabi
+Raghad Alharbi
+Omar Alhuwaishel
+

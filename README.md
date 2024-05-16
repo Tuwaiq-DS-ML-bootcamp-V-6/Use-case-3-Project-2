@@ -10,7 +10,7 @@
 
 ### 2. Which universities are ranked in the top 10 for employment outcomes?
 
-![alt text](images/ANSWER_2_TOPoutcomes.png)
+![image](https://github.com/ReyadGH/Use-case-3-Project-2/assets/117065976/08d0ab07-e7f8-49f7-a564-bfb3cdfd8235)
 
 **ANSWER:** The top 10 universities for employment outcomes are known for preparing graduates for successful careers. Harvard University ranks at the top, with graduates highly sought after by employers worldwide. These universities focus on equipping students with the skills needed to excel in their fields. With strong industry connections and practical experience, graduates from these universities have a competitive advantage in the job market. Students looking for promising employment opportunities often choose these universities for their commitment to career success. 3. What positions do universities in Saudi Arabia hold within the global rankings?
 
